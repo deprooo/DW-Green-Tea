@@ -1,6 +1,10 @@
-# test
+# DW Green Tea
+Hai,
 
-A new Flutter project.
+Salam kenal, saya Dek Widya dari Politeknik Negeri Bali. Saya sedang mengembangkan sebuah aplikasi bernama Green Tea. Aplikasi ini bertujuan untuk mengelola sebuah kedai teh. Pengguna dapat melihat berbagai menu yang tersedia di kedai teh tersebut, termasuk harga, rekomendasi bintang, dan deskripsi dari setiap jenis teh yang ditawarkan.
+
+Terima kasih atas perhatiannya, dan semoga proyek aplikasi Green Tea Anda sukses! Jika Anda membutuhkan bantuan lebih lanjut, jangan ragu untuk bertanya.
+
 
 ## Getting Started
 
